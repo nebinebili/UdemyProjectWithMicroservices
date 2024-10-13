@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{598B44AB-3F73-4E25-BFD2-EDE5505585C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{14BED961-7F4F-457A-B88F-E612DA0B4862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Catalog", "Services\Catalog\FreeCourse.Services.Catalog\FreeCourse.Services.Catalog.csproj", "{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{36F681C6-C7C5-4F7A-9C58-449EE97573D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Shared", "Shared\MicroserviceProjectShared\FreeCourse.Shared.csproj", "{C86F5441-30C8-4C4F-AECE-AA3D9B715844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86F5441-30C8-4C4F-AECE-AA3D9B715844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86F5441-30C8-4C4F-AECE-AA3D9B715844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86F5441-30C8-4C4F-AECE-AA3D9B715844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86F5441-30C8-4C4F-AECE-AA3D9B715844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14BED961-7F4F-457A-B88F-E612DA0B4862} = {598B44AB-3F73-4E25-BFD2-EDE5505585C4}
+		{F5D59DA9-99EF-45B2-89C8-5B12B6F4F718} = {14BED961-7F4F-457A-B88F-E612DA0B4862}
+		{C86F5441-30C8-4C4F-AECE-AA3D9B715844} = {36F681C6-C7C5-4F7A-9C58-449EE97573D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9FF44C-E9BF-4412-8834-8AE3B321B2B2}
+	EndGlobalSection
+EndGlobal

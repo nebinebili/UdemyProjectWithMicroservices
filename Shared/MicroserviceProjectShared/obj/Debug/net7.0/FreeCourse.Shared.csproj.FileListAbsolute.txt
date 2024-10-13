@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\bin\Debug\net7.0\FreeCourse.Shared.deps.json
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\bin\Debug\net7.0\FreeCourse.Shared.dll
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\bin\Debug\net7.0\FreeCourse.Shared.pdb
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.dll
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\refint\FreeCourse.Shared.dll
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\FreeCourse.Shared.pdb
+C:\Users\Admin\source\repos\MicroserviceProject\Shared\MicroserviceProjectShared\obj\Debug\net7.0\ref\FreeCourse.Shared.dll
