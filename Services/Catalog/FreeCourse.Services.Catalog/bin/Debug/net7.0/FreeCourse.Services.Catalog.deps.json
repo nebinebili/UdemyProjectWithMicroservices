@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "FluentAssertions": "6.12.1",
+          "FreeCourse.Shared": "1.0.0",
           "MongoDB.Driver": "2.29.0",
           "Swashbuckle.AspNetCore": "6.8.1",
           "Swashbuckle.AspNetCore.Swagger": "6.8.1"
@@ -280,6 +281,11 @@
             "fileVersion": "0.7.3.0"
           }
         }
+      },
+      "FreeCourse.Shared/1.0.0": {
+        "runtime": {
+          "FreeCourse.Shared.dll": {}
+        }
       }
     }
   },
@@ -519,6 +525,11 @@
       "sha512": "sha512-U9Ix4l4cl58Kzz1rJzj5hoVTjmbx1qGMwzAcbv1j/d3NzrFaESIurQyg+ow4mivCgkE3S413y+U9k4WdnEIkRA==",
       "path": "zstdsharp.port/0.7.3",
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
+    },
+    "FreeCourse.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
