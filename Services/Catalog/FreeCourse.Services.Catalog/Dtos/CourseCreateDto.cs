@@ -8,7 +8,7 @@
 
         public decimal Price { get; set; }
 
-        public decimal Picture { get; set; }
+        public string Picture { get; set; }
 
         public string UserId { get; set; }
 

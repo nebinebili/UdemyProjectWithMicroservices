@@ -13,7 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
 
-builder.Configuration.GetSection("DatabaseSettings");
+builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
 
 builder.Services.AddSingleton<IDatabaseSettings>(sp =>
 {
@@ -22,6 +22,7 @@ builder.Services.AddSingleton<IDatabaseSettings>(sp =>
 
 builder.Services.AddScoped<ICategoryServices,CategoryServices>();
 builder.Services.AddScoped<ICourseService,CourseService>();
+
 
 
 var app = builder.Build();
